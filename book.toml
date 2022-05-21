@@ -1,6 +1,15 @@
 [book]
 author = "Türkiye Teknolojik Belgeleme Topluluğu"
+description = "Türkçe teknolojik belgelerin genişletilmesi amacıyla kurulan topluluk."
 language = "tr"
 multilingual = false
 src = "belgeler"
 title = "Türkiye Teknolojik Belgeleme Topluluğu"
+
+[output.html]
+default-theme = "ayu"
+git-repository-url = "https://github.com/turkiye-tbt/turkiye-tbt.github.io"
+edit-url-template = "https://github.com/turkiye-tbt/turkiye-tbt.github.io/edit/main/{path}"
+
+[output.html.print]
+enable = false

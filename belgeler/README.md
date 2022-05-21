@@ -6,3 +6,7 @@ genişletmek için oluşturulan bir topluluktur.
 
 Lütfen katkıda bulunmadan önce aşağıdaki bağlantıları inceleyin:
 - [Davranış Kuralları](DAVRANIS_KURALLARI.md)
+
+Türkiye Teknolojik Belgeleme Topluluğu'nun her zaman
+yardımınıza ihtiyacı var! Daha fazla bilgi için
+[İstek Listesi'ne](YAPILACAKLAR.md) bakın.
