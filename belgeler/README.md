@@ -7,11 +7,10 @@ teknoloji alanındaki Türkçe belgelerin kapsamını
 genişletmek için oluşturulan bir topluluktur.
 
 Lütfen katkıda bulunmadan önce aşağıdaki bağlantıları inceleyin:
-- [Davranış Kuralları](DAVRANIS_KURALLARI.md)
+- [Davranış Kuralları](davranis-kurallari.md)
 
 Türkiye Teknolojik Belgeleme Topluluğu'nun her zaman
 yardımınıza ihtiyacı var! Daha fazla bilgi için
-[İstek Listesi'ne](YAPILACAKLAR.md) bakın.
+[İstek Listesi'ne](istek-listesi.md) bakın.
 
-# Alt Projeler
-- [İşletim Sistemleri](https://turkiye-tbt.github.io/isletim-sistemleri) — işletim sistemlerinin nasıl geliştirildiği
+# [Alt Projeler](alt-projeler.md)
