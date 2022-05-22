@@ -1,5 +1,7 @@
 # Türkiye Teknolojik Belgeleme Topluluğu
-![Türkiye Teknolojik Belgeleme Topluluğu](./gorsel/baslik.png)
+
+<img style="border-radius: 20px;" src="./gorsel/baslik.png"/>
+
 *Türkiye Teknolojik Belgeleme Topluluğu* ya da *TTBT*,
 teknoloji alanındaki Türkçe belgelerin kapsamını
 genişletmek için oluşturulan bir topluluktur.
