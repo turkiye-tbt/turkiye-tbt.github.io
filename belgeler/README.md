@@ -12,3 +12,6 @@ Lütfen katkıda bulunmadan önce aşağıdaki bağlantıları inceleyin:
 Türkiye Teknolojik Belgeleme Topluluğu'nun her zaman
 yardımınıza ihtiyacı var! Daha fazla bilgi için
 [İstek Listesi'ne](YAPILACAKLAR.md) bakın.
+
+# Alt Projeler
+- [İşletim Sistemleri](https://turkiye-tbt.github.io/isletim-sistemleri) — işletim sistemlerinin nasıl geliştirildiği

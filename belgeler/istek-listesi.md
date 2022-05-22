@@ -8,7 +8,7 @@ istiyorsanız, listeye yeni bir öğe eklemekten çekinmeyin.
 - [Çok Acil Değil (Düşük Öncelikli)](#çok-acil-değil-düşük-öncelikli)
 
 ## Acil (Yüksek Öncelikli)
-- İşletim sistemleri belgesi oluşturulmalı
+*Boş*
 
 ## Daha Az Acil (Normal Öncelikli)
 *Boş*
